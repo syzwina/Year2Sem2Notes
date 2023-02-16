@@ -54,21 +54,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "2052dfc4fda544dd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "COMP22712/Exercise 1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -134,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMP22712/Exercise 1.md",
+                "file": "COMP27112/week 2/Video 4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMP22712/Exercise 1.md",
+                "file": "COMP27112/week 2/Video 4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMP22712/Exercise 1.md"
+                "file": "COMP27112/week 2/Video 4.md"
               }
             }
           }
@@ -195,17 +183,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2052dfc4fda544dd",
+  "active": "2787bbaa3f347a71",
   "lastOpenFiles": [
-    "COMP22712/ics312_bitmasks.pdf",
+    "COMP22712/Bit Masking.pdf",
+    "COMP22712/Exercise 4.md",
+    "COMP22712/Exercise 3.md",
+    "COMP22712/Exercise 2.md",
     "COMP22712/Exercise 1.md",
     "COMP27112/week 2/Video 4.md",
     "COMP27112/week 2/Video 1.md",
     "COMP27112/week 2/Live Lecture.md",
     "COMP26120/week 3/A(star) Algorithm.md",
-    "COMP26120/week 3/Dijkstra's Algorithm.md",
-    "COMP26120/week 3/Correctness.md",
-    "COMP26120/week 2/Negative Weight Cycle with Bellman Ford Example.md",
-    "COMP26120/week 2/Live Lecture.md"
+    "COMP26120/week 3/Dijkstra's Algorithm.md"
   ]
 }
