@@ -4,45 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "45ccfa7c832af89c",
+        "id": "cc29073ee75a9914",
         "type": "tabs",
         "children": [
           {
-            "id": "f4d455248ea65202",
+            "id": "74120af7fef01f56",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "COMP25212/week 2/Live Lecture 2.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3eba74f011b92bc4",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "COMP23412/week 1/MVC.pdf"
-              }
-            }
-          },
-          {
-            "id": "124312678be00109",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "COMP23412/week 1/Spring Java Framework.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -108,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMP23412/week 1/Spring Java Framework.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMP23412/week 1/Spring Java Framework.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "COMP23412/week 1/Spring Java Framework.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -169,17 +138,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "124312678be00109",
+  "active": "74120af7fef01f56",
   "lastOpenFiles": [
-    "COMP23412/week 1/MVC.pdf",
-    "COMP25212/week 3/Live Lecture 2.md",
-    "COMP25212/week 2/Live Lecture 2.md",
-    "COMP26120/week 3/Dijkstra's Algorithm.md",
-    "COMP26120/week 3/A(star) Algorithm.md",
-    "COMP27112/week 2/Video 1.md",
+    "COMP27112/week 3/Live Lecture.md",
+    "COMP27112/week 3/35179918.pdf",
     "COMP27112/week 2/Video 4.md",
-    "COMP22712/Bit Masking.pdf",
-    "COMP22712/Exercise 4.md",
-    "COMP22712/Exercise 3.md"
+    "COMP27112/week 1/Live Lecture.md",
+    "COMP25212/week 2/Live Lecture 2.md",
+    "COMP23412/week 1/MVC.pdf",
+    "COMP27112/week 1/Video 1.md",
+    "COMP23412/week 1/Spring Java Framework.md",
+    "COMP25212/week 3/Live Lecture 2.md",
+    "COMP26120/week 3/Dijkstra's Algorithm.md"
   ]
 }
